@@ -1,5 +1,6 @@
 # ProjetoAllsafe
 
+
 DISPONÍVEL NO LINK: https://projetoallsafe.000webhostapp.com/index.php
 
 # Apresentação
@@ -35,7 +36,6 @@ professor@teste.com
 senha de todos os usários é: 1234
 
 =======================================================================================
-
 
 Melhorias no design;
 Registro de data e hora na abertura do chamado;
